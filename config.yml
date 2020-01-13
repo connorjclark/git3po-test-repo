@@ -11,5 +11,6 @@ filters:
 actions:
   - type: merge
     mergeMethod: squash
+    message: ''
   - type: remove_label
     label: land-when-green
